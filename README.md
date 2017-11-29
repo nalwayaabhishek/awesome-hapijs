@@ -6,6 +6,7 @@
 - [Documentation](http://hapijs.com/api)
 - [Resources](http://hapijs.com/resources)
 
+
 ## Tutorial and blogs
 
 ## Boilerplates starter kit
