@@ -1,6 +1,6 @@
 # hapijs Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-##hapijs Official Resource 
+## hapijs Official Resource 
 - [hapijs](http://hapijs.com)
 - [Getting Started](http://hapijs.com/tutorials)
 - [Documentation](http://hapijs.com/api)
